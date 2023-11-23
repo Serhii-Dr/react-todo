@@ -4,7 +4,7 @@ A simple React Todo app with the ability to add, delete, and persist todos using
 
 ## Working demo
 
-https://Serhii-Dr.github.io/react-todo
+https://serhii-dr.github.io/react-todo/
 
 ## Features
 
