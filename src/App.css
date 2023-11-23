@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  font-family: 'DM Sans', sans-serif;
+  background-color: #ebeaed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  font-family: inherit;
+}

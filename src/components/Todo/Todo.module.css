@@ -1,0 +1,19 @@
+.container {
+  width: 460px;
+  min-height: 500px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.todo-title {
+  text-align: center;
+  padding-bottom: 10px;
+  color: #1e0e62;
+}
+
+.todo-error-message {
+  height: 40px;
+  text-align: center;
+  color: #e93a7d;
+}

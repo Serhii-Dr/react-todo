@@ -1,0 +1,42 @@
+.todo-form {
+  display: flex;
+  justify-content: space-between;
+}
+
+.todo-input {
+  display: block;
+  padding: 0 24px;
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+  border: 2px solid #ebeaed;
+  color: rgba(21, 20, 57, 0.8);
+}
+
+.todo-input--priority {
+  width: 100px;
+}
+
+.todo-input:focus {
+  outline: none;
+  border-color: #808080;
+}
+
+.todo-submit {
+  width: 70px;
+  height: 35px;
+  border-radius: 7px;
+  font-family: inherit;
+  background-color: #25dac5;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.todo-submit:hover {
+  background-color: #61ddcf;
+}
+
+.todo-submit:active {
+  background-color: #34998d;
+}
