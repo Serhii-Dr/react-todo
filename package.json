@@ -2,7 +2,7 @@
   "name": "react-todo",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://Serhii-Dr.github.io/react-todo",
+  "homepage": "http://Serhii-Dr.github.io/react-todo/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",

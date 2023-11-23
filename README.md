@@ -2,6 +2,10 @@
 
 A simple React Todo app with the ability to add, delete, and persist todos using localStorage.
 
+## Working demo
+
+https://Serhii-Dr.github.io/react-todo/
+
 ## Features
 
 - Add new todos
